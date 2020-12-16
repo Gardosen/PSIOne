@@ -174,10 +174,9 @@
 <wire x1="46" y1="0" x2="46" y2="23" width="0" layer="20"/>
 <wire x1="46" y1="23" x2="0" y2="23" width="0" layer="20"/>
 <wire x1="0" y1="23" x2="0" y2="0" width="0" layer="20"/>
+<dimension x1="0" y1="-1" x2="55" y2="-1" x3="27.5" y3="-6" textsize="1.778" layer="20"/>
 <text x="35" y="17" size="0.8128" layer="52" font="vector">PSIOne PCB1
 Made by Gardosen</text>
-<dimension x1="0" y1="0" x2="46" y2="0" x3="23" y3="-4" textsize="1.778" layer="1"/>
-<dimension x1="0" y1="0" x2="0" y2="23" x3="-4" y3="11.5" textsize="1.778" layer="1"/>
 </plain>
 <libraries>
 <library name="con-hirose" urn="urn:adsk.eagle:library:152">
